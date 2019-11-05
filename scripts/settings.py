@@ -20,6 +20,7 @@ DAT_NAME = Path('main.dat')
 IRF_NAME = Path('main.irf')
 REP_NAME = Path('main.rep')
 RWD_NAME = Path('main.rwd')
+INF_NAME = Path('main.inf')
 
 USER = 'randerson'
 CLUSTER_NAME = 'hpc02'
