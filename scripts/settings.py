@@ -19,22 +19,22 @@ REMOTE_IMEX_EXE = PurePosixPath('/mnt/simuladores/CMG/imex/2017.10/linux_x64/exe
 
 SIMS_FOLDER = Path('sims')
 
-DAT_ROOT = Pah('U:/simulation')
+DAT_ROOT = Path('U:/simulation')
 DAT_FOLDER = Path('dat')
 DAT_NAME = Path('main.dat')
 
-RWD_ROOT = Pah('U:/simulation')
+RWD_ROOT = Path('U:/simulation')
 RWD_FOLDER = Path('rwd')
 RWD_NAME = Path('main.rwd')
 
-IRF_ROOT = Pah('U:/simulation')
+IRF_ROOT = Path('U:/simulation')
 IRF_FOLDER = Path('rwd')
 IRF_NAME = Path('main.irf')
 
-REP_ROOT = Pah('U:/simulation')
+REP_ROOT = Path('/media/pamonha/DATA/z_driver/PP321_BIN_001')
 REP_NAME = Path('main.rep')
 
-INF_ROOT = Pah('U:/simulation')
+INF_ROOT = Path('U:/simulation')
 INF_NAME = Path('main.inf')
 
 USER = 'randerson'
