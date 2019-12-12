@@ -31,7 +31,7 @@ IRF_ROOT = Path('U:/simulation')
 IRF_FOLDER = Path('rwd')
 IRF_NAME = Path('main.irf')
 
-REP_ROOT = Path('/media/pamonha/DATA/z_driver/PP321_BIN_001')
+REP_ROOT = Path('U:/simulation')
 REP_NAME = Path('main.rep')
 
 INF_ROOT = Path('U:/simulation')
