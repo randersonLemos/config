@@ -17,7 +17,7 @@ LOCAL_PUTT_EXE = Path('C:/\"Program Files (x86)"/PuTTY/plink.exe')
 REMOTE_ROOT     = PurePosixPath('/home/randerson/simulation')
 REMOTE_IMEX_EXE = PurePosixPath('/mnt/software/CMG/imex/2017.10/linux_x64/exe/mx201710.exe')
 
-SIMS_FOLDER = Path('sims')
+SIMS_FOLDER = Path('SIMS')
 
 DAT_ROOT = Path('U:/simulation')
 DAT_FOLDER = Path('dat')
