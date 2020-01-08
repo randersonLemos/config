@@ -37,6 +37,9 @@ REP_NAME = Path('main.rep')
 INF_ROOT = Path('U:/simulation')
 INF_NAME = Path('main.inf')
 
+CSV_ROOT = Path('U:/simulation')
+CSV_FOLD = Path('csvs')
+
 USER = 'randerson'
 CLUSTER_NAME = 'hpc02'
 QUEUE_KIND = 'longas'
