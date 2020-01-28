@@ -37,10 +37,12 @@ REP_NAME = Path('main.rep')
 INF_ROOT = Path('U:/simulation')
 INF_NAME = Path('main.inf')
 
+NPV_ROOT = Path('U:/simulation')
+NPV_NAME = Path('main.eofcs.csv')
+
 CSV_ROOT = Path('U:/simulation')
 CSV_FOLD = Path('csvs')
 
 USER = 'randerson'
 CLUSTER_NAME = 'hpc02'
 QUEUE_KIND = 'longas'
-
